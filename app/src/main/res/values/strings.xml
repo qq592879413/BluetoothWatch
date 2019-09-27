@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">蓝牙手表</string>
+    <string name="ble_need_location">Android6.0蓝牙需要开启</string>
+    <string name="unknown_device">Unknown device</string>
+    <string name="returns">返回</string>
+    <string name="tipNext">请确认充电座已经接通\n电源，电源指示灯亮起。</string>
+    <string name="btnNext">下一步</string>
+
+    <string name="tvBleSearch">充电座搜索中</string>
+</resources>
